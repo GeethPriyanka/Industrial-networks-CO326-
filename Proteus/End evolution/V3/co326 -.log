@@ -1,0 +1,8 @@
+# Writing all output to: C:\Users\gayan\Desktop\Semster6\CO326\Project\Proteus\End evolution\V3\co326 -.log
+set pad_wire_necking on
+bus diagonal
+fanout 5
+route 50
+clean 2
+route 50 16
+clean 2
